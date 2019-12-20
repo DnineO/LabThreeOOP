@@ -1,0 +1,13 @@
+﻿  LabTree.cpp
+  classMatrix.cpp
+  Создание кода...
+F:\IVT\OOP_Mine\Class-N2\LabTree\classMatrix.cpp(80,27): warning C4244:  =: преобразование "int" в "_Ty", возможна потеря данных
+F:\IVT\OOP_Mine\Class-N2\LabTree\classMatrix.cpp(80,27): warning C4244:         with
+F:\IVT\OOP_Mine\Class-N2\LabTree\classMatrix.cpp(80,27): warning C4244:         [
+F:\IVT\OOP_Mine\Class-N2\LabTree\classMatrix.cpp(80,27): warning C4244:             _Ty=float
+F:\IVT\OOP_Mine\Class-N2\LabTree\classMatrix.cpp(80,27): warning C4244:         ]
+F:\IVT\OOP_Mine\Class-N2\LabTree\classMatrix.cpp(24): warning C4715:  classMatrix::determN1: значение возвращается не при всех путях выполнения
+F:\IVT\OOP_Mine\Class-N2\LabTree\classMatrix.cpp(30): warning C4715:  classMatrix::determN2: значение возвращается не при всех путях выполнения
+F:\IVT\OOP_Mine\Class-N2\LabTree\classMatrix.cpp(38): warning C4715:  classMatrix::determN3: значение возвращается не при всех путях выполнения
+F:\IVT\OOP_Mine\Class-N2\LabTree\classMatrix.cpp(96): warning C4715:  classMatrix::operator+: значение возвращается не при всех путях выполнения
+  LabTree.vcxproj -> F:\IVT\OOP_Mine\Class-N2\LabTree\x64\Debug\LabTree.exe
